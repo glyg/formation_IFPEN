@@ -1,0 +1,20 @@
+name: ifpen
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - jupyter
+  - notebook
+  - jupyterlab
+  - matplotlib
+  - ipyvolume
+  - ipywidgets
+  - altair
+  - vega_datasets
+  - vega
+  - bokeh
+  - voila
